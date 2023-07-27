@@ -36,3 +36,4 @@ The article that I wrote explaining how to use Arachni to check this application
 If is there any problem running the application or you want to add more security flaws, feel free to open an issue or send a pull request.
 
 tes
+tes2
